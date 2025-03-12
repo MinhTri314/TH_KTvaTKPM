@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -36,7 +37,12 @@ builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUniOfWork, UnitOfWork>();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
+
 var app = builder.Build();
+
+app.UseSession();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
