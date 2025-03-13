@@ -21,11 +21,11 @@ namespace ASC_Web.Controllers
             _settings = settings;
         }
 
-        public HomeController(ILogger<HomeController> logger, IOptions<ApplicationSetting> setting)
-        {
-            _logger = logger;
-            _settings = setting;
-        }
+        //public HomeController(ILogger<HomeController> logger, IOptions<ApplicationSetting> setting)
+        //{
+        //    _logger = logger;
+        //    _settings = setting;
+        //}
 
 
         public IActionResult Index()
