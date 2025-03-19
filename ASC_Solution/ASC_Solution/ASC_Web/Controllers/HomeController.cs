@@ -7,12 +7,10 @@ using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System.Text;
 using ASC.Utilities;
-using Microsoft.AspNetCore.Authorization;
-using System.Drawing.Text;
 
 namespace ASC_Web.Controllers
 {
-    public class HomeController : AnonymousController
+    public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -59,6 +57,5 @@ namespace ASC_Web.Controllers
         {
             return View();
         }
-
     }
 }
