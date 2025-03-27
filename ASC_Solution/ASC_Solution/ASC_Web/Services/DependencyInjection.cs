@@ -1,6 +1,5 @@
 ﻿using ASC.DataAccess;
 using ASC.DataAccess.Interfaces;
-using ASC.Model.BaseData;
 using ASC_Web.Configuration;
 using ASC_Web.Data;
 using Microsoft.AspNetCore.Identity;

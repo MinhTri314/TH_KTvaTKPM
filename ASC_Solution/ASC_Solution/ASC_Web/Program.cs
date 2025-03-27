@@ -1,6 +1,5 @@
 using ASC.DataAccess;
 using ASC.DataAccess.Interfaces;
-using ASC.Model.BaseData;
 using ASC_Web.Configuration;
 using ASC_Web.Data;
 using ASC_Web.Services;
@@ -12,6 +11,8 @@ using Microsoft.Extensions.Options;
 
 
 var builder = WebApplication.CreateBuilder(args);
+//builder.Services.AddCongfig(builder.Configuration).AddMyDependencyGroup(); //Add revise
+builder.Services.AddScoped<INavigationCacheOperations, NavigationCacheOperations>();
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -28,13 +29,16 @@ builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 //builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
 //    .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddOptions();
-builder.Services.Configure<ApplicationSetting>(builder.Configuration.GetSection("Appsetting"));
+builder.Services.Configure<ApplicationSetting>(builder.Configuration.GetSection("AppSettings"));
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
 // Add application services.
 builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
+//Addition lab4
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+//End lab4
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUniOfWork, UnitOfWork>();
 builder.Services.AddDistributedMemoryCache();
@@ -75,6 +79,12 @@ using (var scope = app.Services.CreateScope())
         scope.ServiceProvider.GetService<UserManager<IdentityUser>>(),
         scope.ServiceProvider.GetService<RoleManager<IdentityRole>>(),
         scope.ServiceProvider.GetService<IOptions<ApplicationSetting>>());
+}
+
+using (var scope = app.Services.CreateScope())
+{
+    var navigationCacheOperations = scope.ServiceProvider.GetRequiredService<INavigationCacheOperations>();
+    await navigationCacheOperations.CreateNavigationCacheAsync();
 }
 
 app.Run();
