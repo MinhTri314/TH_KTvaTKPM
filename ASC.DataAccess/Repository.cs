@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 
 namespace ASC.DataAccess
 {
-    public class Repository <T> : IRepository<T> where T : BaseEntity, new()
+    public class Repository<T> : IRepository<T> where T : BaseEntity, new()
     {
-        private DbContext dbContext;
+        private readonly DbContext _dbContext;
 
         public Repository(DbContext dbContext)
         {
-            this.dbContext = dbContext;
+            this._dbContext = dbContext;
         }
 
         public async Task<T> AddAsync(T entity)
@@ -23,41 +23,43 @@ namespace ASC.DataAccess
             var entityToInsert = entity as BaseEntity;
             entityToInsert.CreatedDate = DateTime.UtcNow;
             entityToInsert.UpdatedDate = DateTime.UtcNow;
-            var result = dbContext.Set<T>().AddAsync(entity).Result;
-                //await dbContext.Set<T>().AddAsync(entity).Result;
-            return result as T;
+
+            var result = await _dbContext.Set<T>().AddAsync(entity).ConfigureAwait(false);
+            return result.Entity as T;
         }
 
         public void Update(T entity)
         {
             var entityToUpdate = entity as BaseEntity;
             entityToUpdate.UpdatedDate = DateTime.UtcNow;
-            dbContext.Set<T>().Update(entity);
+
+            _dbContext.Set<T>().Update(entity);
         }
 
         public void Delete(T entity)
         {
             var entityToDelete = entity as BaseEntity;
-            entityToDelete.UpdatedDate = DateTime.UtcNow;
             entityToDelete.IsDeleted = true;
-            dbContext.Set<T>().Remove(entity);
+            entityToDelete.UpdatedDate = DateTime.UtcNow;
+
+            _dbContext.Set<T>().Remove(entity);
         }
 
         public async Task<T> FindAsync(string partitionKey, string rowKey)
         {
-            var result =  dbContext.Set<T>().FindAsync(partitionKey, rowKey).Result;
+            var result = await _dbContext.Set<T>().FindAsync(partitionKey, rowKey).ConfigureAwait(false);
             return result as T;
         }
 
         public async Task<IEnumerable<T>> FindAllByPartitionKeyAsync(string partitionKey)
         {
-            var result = dbContext.Set<T>().Where(t => t.PatititonKey == partitionKey).ToListAsync().Result;
+            var result = await _dbContext.Set<T>().Where(t => t.PartitionKey == partitionKey).ToListAsync().ConfigureAwait(false);
             return result as IEnumerable<T>;
         }
 
         public async Task<IEnumerable<T>> FindAllAsync()
         {
-            var result = dbContext.Set<T>().ToListAsync().Result;
+            var result = await _dbContext.Set<T>().ToListAsync().ConfigureAwait(false);
             return result as IEnumerable<T>;
         }
     }

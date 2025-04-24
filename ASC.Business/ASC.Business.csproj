@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ASC.DataAccess\ASC.DataAccess.csproj" />
-    <ProjectReference Include="..\ASC.Models\ASC.Model.csproj" />
+    <ProjectReference Include="..\ASC.Model\ASC.Model.csproj" />
   </ItemGroup>
 
 </Project>
