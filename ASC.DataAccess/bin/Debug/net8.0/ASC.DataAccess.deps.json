@@ -743,6 +743,7 @@
       },
       "ASC.Model/1.0.0": {
         "dependencies": {
+          "ASC.Utilities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11"
         },

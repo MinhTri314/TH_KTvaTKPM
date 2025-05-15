@@ -3,15 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\views\\shared\\_servicerequestgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\areas\\servicerequests\\views\\shared\\_servicerequestgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\areas\\servicerequests\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\areas\\servicerequests\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.model\\basetypes\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\views\\servicerequest\\servicerequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\areas\\servicerequests\\views\\servicerequest\\servicerequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\areas\\servicerequests\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.business\\servicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\servicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.business\\interfaces\\iservicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\interfaces\\iservicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.model\\queries\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\queries\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B801598-C617-4CE7-A8DC-906E9758EC05}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.utilities\\predicatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B801598-C617-4CE7-A8DC-906E9758EC05}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\predicatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\data\\migrations\\20250515072717_addservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\data\\migrations\\20250515072717_addservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\areas\\servicerequests\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -32,14 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc_web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.business\\servicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\servicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.business\\interfaces\\iservicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\interfaces\\iservicerequestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|c:\\users\\ngomi\\desktop\\\u01B0eb\\th_ktvatkpm\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,89 +113,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250515072717_addServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
-              "RelativeDocumentMoniker": "ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
-              "RelativeToolTip": "ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:27:17.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
-              "ToolTip": "C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:24:01.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T07:18:53.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceRequestMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
-              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
-              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "Constans.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Model\\BaseTypes\\Constans.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constans.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Model\\BaseTypes\\Constans.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:04:51.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewServiceRequestViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
-              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
-              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:03:59.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
-              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
-              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:06:18.278Z",
+              "WhenOpened": "2025-05-15T09:12:05.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T08:56:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ServiceRequestGrid.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\Shared\\_ServiceRequestGrid.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Views\\Shared\\_ServiceRequestGrid.cshtml",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\Shared\\_ServiceRequestGrid.cshtml",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Views\\Shared\\_ServiceRequestGrid.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T08:50:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:48:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ServiceRequest.cshtml",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\ServiceRequest\\ServiceRequest.cshtml",
               "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Views\\ServiceRequest\\ServiceRequest.cshtml",
@@ -167,24 +177,167 @@
               "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Views\\ServiceRequest\\ServiceRequest.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T07:08:23.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T07:08:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:48:25.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:40:13.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:37:39.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Model\\Queries\\Queries.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Queries\\Queries.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Model\\Queries\\Queries.cs",
+              "RelativeToolTip": "ASC.Model\\Queries\\Queries.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:35:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IServiceRequestOperations.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\Interfaces\\IServiceRequestOperations.cs",
               "RelativeDocumentMoniker": "ASC.Business\\Interfaces\\IServiceRequestOperations.cs",
               "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\Interfaces\\IServiceRequestOperations.cs",
               "RelativeToolTip": "ASC.Business\\Interfaces\\IServiceRequestOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T06:58:52.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestOperations.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\ServiceRequestOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\ServiceRequestOperations.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\ServiceRequestOperations.cs",
+              "RelativeToolTip": "ASC.Business\\ServiceRequestOperations.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:00:11.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PredicateBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Utilities\\PredicateBuilder.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\PredicateBuilder.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Utilities\\PredicateBuilder.cs",
+              "RelativeToolTip": "ASC.Utilities\\PredicateBuilder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:33:25.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250515072717_addServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
+              "RelativeToolTip": "ASC_Web\\Data\\Migrations\\20250515072717_addServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:27:17.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\ngomi\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\172733bff1e0380ec36ccce0f1f4ede5a56886d16f1b183108741c97c0d6c0cd\\ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:24:01.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:18:53.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceRequestMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Models\\ServiceRequestMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:04:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewServiceRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Models\\NewServiceRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:03:59.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
+              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
+              "RelativeToolTip": "ASC_Web\\Areas\\ServiceRequests\\Controllers\\ServiceRequestController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:06:18.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Model\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
@@ -196,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Program.cs",
               "RelativeDocumentMoniker": "ASC_Web\\Program.cs",
@@ -208,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Services\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ASC_Web\\Services\\DependencyInjection.cs",
@@ -216,24 +369,11 @@
               "RelativeToolTip": "ASC_Web\\Services\\DependencyInjection.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T06:29:17.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T06:29:17.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceRequestOperations.cs",
-              "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\ServiceRequestOperations.cs",
-              "RelativeDocumentMoniker": "ASC.Business\\ServiceRequestOperations.cs",
-              "ToolTip": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC.Business\\ServiceRequestOperations.cs",
-              "RelativeToolTip": "ASC.Business\\ServiceRequestOperations.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:00:11.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "MasterDataCacheOperations.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\MasterDataCacheOperations.cs",
               "RelativeDocumentMoniker": "ASC_Web\\Data\\MasterDataCacheOperations.cs",
@@ -245,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "IMasterDataCacheOperations.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\IMasterDataCacheOperations.cs",
               "RelativeDocumentMoniker": "ASC_Web\\Data\\IMasterDataCacheOperations.cs",
@@ -257,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "MasterDataCache.cs",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\Data\\MasterDataCache.cs",
               "RelativeDocumentMoniker": "ASC_Web\\Data\\MasterDataCache.cs",
@@ -269,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\appsettings.json",
               "RelativeDocumentMoniker": "ASC_Web\\appsettings.json",
@@ -281,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ngomi\\Desktop\\\u01B0eb\\TH_KTvaTKPM\\ASC_Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ASC_Web\\appsettings.Development.json",

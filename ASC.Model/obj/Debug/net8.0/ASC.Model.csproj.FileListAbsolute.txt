@@ -36,3 +36,6 @@ C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
 C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.Up2Date
