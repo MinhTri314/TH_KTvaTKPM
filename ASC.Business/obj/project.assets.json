@@ -3391,11 +3391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
       "projectName": "ASC.Business",
-      "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+      "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
       "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\obj\\",
+      "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3416,11 +3416,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+            "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj"
             },
-            "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+            "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
             }
           }
         }

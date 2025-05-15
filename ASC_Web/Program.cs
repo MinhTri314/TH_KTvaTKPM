@@ -81,5 +81,11 @@ using (var scope = app.Services.CreateScope())
     await navigationCacheOperations.CreateNavigationCacheAsync();
 }
 
+using (var scope = app.Services.CreateScope())
+{
+    var MasterDataCacheOperations = scope.ServiceProvider.GetRequiredService<IMasterDataCacheOperations>();
+    await MasterDataCacheOperations.CreateMasterDataCacheAsync();
+}
+
 
 app.Run();

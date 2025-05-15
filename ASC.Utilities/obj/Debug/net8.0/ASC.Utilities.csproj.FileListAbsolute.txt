@@ -23,3 +23,16 @@ C:\Users\ngomi\Downloads\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.
 C:\Users\ngomi\Downloads\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 C:\Users\ngomi\Downloads\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 C:\Users\ngomi\Downloads\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\ngomi\Desktop\ưeb\TH_KTvaTKPM\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll

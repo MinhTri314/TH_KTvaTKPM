@@ -31,7 +31,13 @@ namespace ASC_Web.Services
                 options.ClientId = config["Google:Identity:ClientId"];
                 options.ClientSecret = config["Google:Identity:ClientSecret"];
             });
+            //services.AddDistributedMemoryCache();
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = config.GetSection("CacheSettings:CacheConnectionString").Value;
+                options.InstanceName = config.GetSection("CacheSettings:CacheInstance").Value;
 
+            });
             return services;
         }
         // Add service
@@ -54,6 +60,7 @@ namespace ASC_Web.Services
             services.AddSingleton<IIdentitySeed, IdentitySeed>();
             services.AddScoped<IUniOfWork, UnitOfWork>();
 
+
             services.AddScoped<IMasterDataOperations, MasterDataOperations>();
             services.AddAutoMapper(typeof(ApplicationDbContext));
             // Add Cache, Session
@@ -62,6 +69,8 @@ namespace ASC_Web.Services
 
             services.AddDistributedMemoryCache();
             services.AddSingleton<INavigationCacheOperations, NavigationCacheOperations>();
+            services.AddScoped<IMasterDataCacheOperations, MasterDataCacheOperations>();
+            services.AddScoped<IServiceRequestOperations, ServiceRequestOperations>();
 
             // Add RazorPages, MVC
             services.AddRazorPages();

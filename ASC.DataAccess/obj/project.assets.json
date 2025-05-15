@@ -3372,11 +3372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
       "projectName": "ASC.DataAccess",
-      "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+      "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3397,11 +3397,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+            "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
             },
-            "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-              "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+            "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+              "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
             }
           }
         }

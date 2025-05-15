@@ -10,7 +10,7 @@ namespace ASC.Model.Models
     public class ServiceRequest : BaseEntity, IAuditTracker
     {
         public ServiceRequest() { }
-        public ServiceRequest(string email) 
+        public ServiceRequest(string email)
         {
             this.RowKey = Guid.NewGuid().ToString();
             this.PartitionKey = email;
@@ -21,6 +21,6 @@ namespace ASC.Model.Models
         public string RequestedServices { get; set; }
         public DateTime? RequestedDate { get; set; }
         public DateTime? CompletedDate { get; set; }
-        public string ServiceEngineer { get; set; }
+        public string? ServiceEngineer { get; set; }
     }
 }

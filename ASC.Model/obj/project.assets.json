@@ -2721,11 +2721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
       "projectName": "ASC.Model",
-      "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
       "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\obj\\",
+      "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

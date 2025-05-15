@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {}
+    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
+    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Business\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,11 +104,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
               },
-              "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Model\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -223,14 +223,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

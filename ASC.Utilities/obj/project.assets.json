@@ -1202,11 +1202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
       "projectName": "ASC.Utilities",
-      "projectPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
       "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngomi\\Downloads\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\obj\\",
+      "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
