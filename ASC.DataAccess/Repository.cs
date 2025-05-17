@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ASC.DataAccess
 {
-    public class Repository<T> : IRepository<T> where T : BaseEntity, new()
+    public class Repository <T> : IRepository<T> where T : BaseEntity, new()
     {
         private readonly DbContext _dbContext;
 

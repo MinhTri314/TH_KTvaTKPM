@@ -1,21 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ASC.Business.Interfaces;
+﻿using ASC.Business.Interfaces;
 using ASC.DataAccess;
 using ASC.DataAccess.Interfaces;
 using ASC.Model.Models;
 using ASC.Model.Queries;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ASC.Business
 {
     public class ServiceRequestOperations : IServiceRequestOperations
     {
-        private readonly IUniOfWork _uniOfWork;
+        private readonly IUnitOfWork _uniOfWork;
 
-        public ServiceRequestOperations(IUniOfWork uniOfWork)
+        public ServiceRequestOperations(IUnitOfWork uniOfWork)
         {
             _uniOfWork = uniOfWork;
         }

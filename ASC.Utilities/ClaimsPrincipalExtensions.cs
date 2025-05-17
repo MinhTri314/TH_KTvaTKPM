@@ -16,12 +16,11 @@ namespace ASC.Utilities
 
             return new CurrentUser
             {
-                Name = principal.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name).Value,
-                Email = principal.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email).Value,
+                Name = principal.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name)?.Value,
+                Email = principal.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value,
                 Roles = principal.Claims.Where(c => c.Type == ClaimTypes.Role).Select(c => c.Value).ToArray(),
-                IsActive = Boolean.Parse(principal.Claims.Where(c => c.Type == "IsActive").Select(c => c.Value).SingleOrDefault())
+                IsActive = Boolean.TryParse(principal.Claims.FirstOrDefault(c => c.Type == "IsActive")?.Value, out bool isActive) ? isActive : false
             };
         }
-
     }
 }

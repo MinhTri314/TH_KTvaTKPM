@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUciYS32Ju4=",
+  "dgSpecHash": "lsn0/FAAcFE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngomi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.3.0\\microsoft.aspnetcore.cryptography.internal.2.3.0.nupkg.sha512",
     "C:\\Users\\ngomi\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.3.0\\microsoft.aspnetcore.dataprotection.2.3.0.nupkg.sha512",

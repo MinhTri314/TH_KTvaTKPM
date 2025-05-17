@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Tests\\ASC.Tests.csproj": {}
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Tests\\ASC.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,11 +104,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -128,6 +128,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -148,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,8 +182,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -200,11 +206,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [
@@ -227,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Tests\\ASC.Tests.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Tests\\ASC.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Tests\\ASC.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Tests\\ASC.Tests.csproj",
         "projectName": "ASC.Tests",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Tests\\ASC.Tests.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Tests\\ASC.Tests.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Tests\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,11 +261,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\ASC_Web.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\ASC_Web.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\ASC.Web.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\ASC.Web.csproj"
               }
             }
           }
@@ -280,13 +286,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Session": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.13.0, )"
             },
             "Microsoft.TestPlatform.TestHost": {
               "target": "Package",
@@ -295,10 +297,6 @@
             "Moq": {
               "target": "Package",
               "version": "[4.20.72, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
             },
             "xunit": {
               "target": "Package",
@@ -331,14 +329,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -406,14 +404,14 @@
         }
       }
     },
-    "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\ASC_Web.csproj": {
+    "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\ASC_Web.csproj",
-        "projectName": "ASC_Web",
-        "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\ASC_Web.csproj",
+        "projectUniqueName": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\ASC.Web.csproj",
+        "projectName": "ASC.Web",
+        "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\ASC.Web.csproj",
         "packagesPath": "C:\\Users\\ngomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC_Web\\obj\\",
+        "outputPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -434,17 +432,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Business\\ASC.Business.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Business\\ASC.Business.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Models\\ASC.Model.csproj"
               },
-              "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ngomi\\Desktop\\ưeb\\TH_KTvaTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ngomi\\Downloads\\LeHuuTu_2224802010236_ThucHanh-main\\LeHuuTu_2224802010236_ThucHanh-main\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -465,13 +463,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
             },
             "EPPlus": {
               "target": "Package",
-              "version": "[6.2.19, )"
+              "version": "[8.0.2, )"
             },
             "MailKit": {
               "target": "Package",
@@ -479,11 +481,15 @@
             },
             "Microsoft.AspNetCore.Authentication.Google": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[3.1.20, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -497,25 +503,23 @@
               "target": "Package",
               "version": "[2.3.0, )"
             },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
             },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
